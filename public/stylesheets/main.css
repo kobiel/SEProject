@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+}
+
+.stripe1{
+    background-color: #b0d8ce;
+    height:10%;
+    width:100%;
+}
+
+.stripe2{
+    background-color: #a5ff74;
+    height:10%;
+    width:100%;
+}
+
+.stripe3{
+    background-color:aliceblue;
+    height:80%;
+    width:100%;
+}

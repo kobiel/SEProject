@@ -1,0 +1,4 @@
+[debug] Copy play resource mappings: 
+[debug] 	(C:\Users\kobi\workspace\SEProject\public\images\favicon.png,C:\Users\kobi\workspace\SEProject\target\scala-2.10\classes\public\images\favicon.png)
+[debug] 	(C:\Users\kobi\workspace\SEProject\public\javascripts\jquery-1.9.0.min.js,C:\Users\kobi\workspace\SEProject\target\scala-2.10\classes\public\javascripts\jquery-1.9.0.min.js)
+[debug] 	(C:\Users\kobi\workspace\SEProject\public\stylesheets\main.css,C:\Users\kobi\workspace\SEProject\target\scala-2.10\classes\public\stylesheets\main.css)

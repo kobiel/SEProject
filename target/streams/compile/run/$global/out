@@ -1,0 +1,2 @@
+Path(C:\Users\kobi\workspace\SEProject\logs\application.log) is not a directory so descendants can not be called on itis not a directory
+[error] (compile:run) java.lang.reflect.InvocationTargetException

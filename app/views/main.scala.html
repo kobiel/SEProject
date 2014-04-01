@@ -1,0 +1,23 @@
+@(title: String)(content: Html)
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>@title</title>
+        <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
+        <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
+            <!-- Latest compiled and minified JavaScript -->
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="stripe1">My web page for Prototype 1b</div>
+        <div class="stripe2">
+            <div>Press <a href=../first>here</a> for the first page</div>
+            <div>Press <a href=../second>here</a> for the second page</div>
+            <div>Press <a href=../third>here</a> for the third page</div>
+        </div>
+        <div class="stripe3"></div>
+    </body>
+</html>
